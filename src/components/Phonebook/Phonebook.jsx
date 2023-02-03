@@ -9,7 +9,7 @@ import PropTypes from 'prop-types'
 import { FormikForm } from './Form/Form'
 import { Contacts } from './Contacts/Contacts'
 import { HeaderMain, PhonebookWrapper } from './Phonebook.styled'
-import { useSelector } from 'react-redux'
+// import { useSelector } from 'react-redux'
 
 
 export const Phonebook = () => {
